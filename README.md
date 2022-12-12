@@ -1,8 +1,4 @@
-# Build Your Own World Design Document
-
-**Partner 1:**
-
-**Partner 2:**
+# Build Your Own World 
 
 ## Classes and Data Structures
 
